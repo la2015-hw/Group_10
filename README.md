@@ -10,12 +10,12 @@ By comparing models trained on individual vs. combined modalities, we aim to und
 
 ## 👥 Group Members  
 
-| Name                     | Student ID |
-|--------------------------|------------|
-| Adam Aboushady           | ID1        |
-| Ihsan Fazal              | ID2        |
-| Janya Rathnakumar        | ID3        |
-| Mustansir Eranpurwala    | ID4        |
-| Vaishnavi Chintha        | ID5        |
+| Name                     |     Student ID |
+|--------------------------|----------------|
+| Adam Aboushady           | aha2003        |
+| Ihsan Fazal              | mf2056         |
+| Janya Rathnakumar        | jr2068         |
+| Mustansir Eranpurwala    | mte2000        |
+| Vaishnavi Chintha        | svc2000        |
 
 ---
