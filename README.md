@@ -8,11 +8,6 @@ By comparing models trained on individual vs. combined modalities, we aim to und
 
 ---
 
-## 📂 Repository Structure  
-
-
----
-
 ## 👥 Group Members  
 
 | Name                     | Student ID |
